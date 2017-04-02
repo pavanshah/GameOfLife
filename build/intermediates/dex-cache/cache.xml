@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_e2fa64b75caf427593dd6a158a3e945d7e049ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_af52b3bf8add711c4b552f66def0198cc016f7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_794aa629e34cb4ad8464465f8601c6f0c7320e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_59980b60574b45f2ef0226b9fa38a5e627e990ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67457424fa535e285931d4f1373deb6f854a2de0">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_443d87be191d3bdab8d99fb9a6756228f22169a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_4da1857fc24b5e19e91530cd80b254e6d64705f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15bf33fd0781a99804460ec7cf0e2817a0cd743b">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0942440f533e88a8abaf3f2b8da12e4ae2f6c36c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_bfc3aebdaf0e450ab368a9a76460eb370dd859d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_a24b64a8f9ab286947e6547859e7964693deee21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cefa13f837d6aaefbaaa341b092ec4f7ff1f6ed">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e9d6591fffcdf62231c56feb973da6da65f6cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_3cd44b5f3d4ef9915c8a3b8e08af5b37e8eca7ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_d9a16834d6997e60a45abc0bfc48cf1d26785358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_ea1cf4eae1a11df858523d0899790e41561d4b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751c293481f4a106b4f6f6fbbcea4bffa8d7fb90">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0523d6b17b5381aa9bb86d765cdc6d11bb6ac4d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavan Shah\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_ddfa12e593795225e5aecb40dd3c215117ab5556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_643a81e1119eaf7541359ccf24037111511a35d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_f977c9c68e429e031f819ba1c85463fb750b50e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_270ccf9d58ea0797a72640095779ea1c32a03890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_fe5eee8f1b8be898d7b1338d721d8c444890c7da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_77d23619efffe8f9cac077899582e5728277e73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\AndroidProjects\GameOfLifeTrial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_dfb3ab052034f3412fa9ec1d306d5bd8c6778c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_094651a414d16df72fd6daeeca4e9b17fd59a37f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\GitRepositories\AndroidProjects\GameOfLife\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_ed2deefdb1e954b1fc3ba6ccaf6fb2565f545cb8\classes.dex" />
+    </item>
+
+</items>
